@@ -1,0 +1,2 @@
+# medsos
+ project latihan kag
